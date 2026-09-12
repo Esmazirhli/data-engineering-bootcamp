@@ -6,7 +6,7 @@ Bu repo, Data Engineering Bootcamp kapsamında haftalık olarak yapılan ödevle
 
 | Hafta | Konu | Bağlantı |
 |---|---|---|
-| Week 1 | Linux Temelleri | [Duzenle](./week_1_linux_basics) |
+| Week 1 | Linux Temelleri | [week_1_linux_basics](./week_1_linux_basics) |
 
 ## Yapı
 

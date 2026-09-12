@@ -1,6 +1,6 @@
 # Week 1 - Linux Basics Homework
 
-DataOps Bootcamp kapsamında verilen Linux temel komutlar ödevi.
+Bootcamp kapsamında verilen Linux temel komutlar ödevi.
 
 ## 1. `linux_basic` klasörü oluşturma
 
